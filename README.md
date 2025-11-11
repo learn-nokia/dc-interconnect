@@ -22,6 +22,8 @@ All leaves establish BGP session with their DCGW and advertise EVPN address fami
 
 On DCGW, a separate dual BGP instance IP-VPN is created for each EVPN service.
 
+## Install [containerlab](https://containerlab.dev/) on your machine/laptop/server.
+
 ## Deploy the lab using containerlab
 
 ```
